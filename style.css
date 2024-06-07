@@ -94,3 +94,17 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather {
+    display: none;
+}
+
+.error {
+    font-size: 18px;
+    color: #e95a18;
+    margin-top: 30px;
+    background-color: #212121;
+    padding: 10px;
+    border-radius: 20px;
+    display: none;
+}
