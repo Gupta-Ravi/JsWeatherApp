@@ -10,7 +10,7 @@ A simple weather app built with JavaScript, HTML, and CSS that lets you check th
 
 ## Demo
 
-Check out the live demo: [https://your-github-pages-link-here.github.io/](https://your-github-pages-link-here.github.io/)
+Check out the live demo: [https://your-github-pages-link-here.github.io/](https://gupta-ravi.github.io/JsWeatherApp/)
 
 ## How it works
 
